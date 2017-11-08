@@ -1,0 +1,6 @@
+[package]
+name = "counter_thread_parallel"
+version = "0.1.0"
+authors = ["bokotomo <bokotomo@me.com>"]
+
+[dependencies]
